@@ -1,0 +1,17 @@
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\George BrownTeacher-Course Management.exe.config
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\George BrownTeacher-Course Management.exe
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\George BrownTeacher-Course Management.pdb
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\EntityFramework.dll
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\EntityFramework.xml
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.csproj.AssemblyReference.cache
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George_BrownTeacher_Course_Management.LoginForm.resources
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George_BrownTeacher_Course_Management.Properties.Resources.resources
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.csproj.GenerateResource.cache
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.csproj.CoreCompileInputs.cache
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.csproj.CopyComplete
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.exe
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George BrownTeacher-Course Management.pdb
+C:\Users\Jashan\Desktop\Sem 3\Multi-tier\George BrownTeacher-Course Management\George BrownTeacher-Course Management\obj\Debug\George_BrownTeacher_Course_Management.Business.CourseAssignmentForm.resources
